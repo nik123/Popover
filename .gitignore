@@ -29,3 +29,6 @@ Carthage/Checkouts/*
 
 # CocoaPods
 Pods/
+
+# AppCode
+.idea/
